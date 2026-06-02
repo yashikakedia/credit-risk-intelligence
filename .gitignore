@@ -1,0 +1,33 @@
+# Large data files
+data/raw/
+data/processed/
+data/exports/
+*.csv
+*.gz
+*.zip
+*.parquet
+
+# Trained models
+models/
+*.pkl
+*.joblib
+*.h5
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Environment
+.env
+.venv/
+env/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI / Tableau files
+dashboard/*.pbix
+dashboard/*.twbx
