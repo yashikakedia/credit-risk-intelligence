@@ -1,0 +1,4 @@
+Model,AUC_ROC,KS_Stat,Gini,F1_Score,Precision,Recall
+Logistic Regression,0.715,0.3122,0.4299,0.432,0.3247,0.6451
+Random Forest,0.7176,0.312,0.4352,0.431,0.3173,0.6718
+XGBoost,0.726,0.3269,0.452,0.4396,0.3255,0.6769
